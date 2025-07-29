@@ -26,5 +26,7 @@ Keep track of tasks with titles, descriptions, due dates and priority badges (HI
 
 <img width="372" height="622" alt="Screenshot 2025-07-29 223149" src="https://github.com/user-attachments/assets/8b35fe72-6e83-4ab1-a9fb-e8393eef73b5" />
 
+<img width="356" height="638" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/e351823c-79b8-4475-8ee1-ae920ba0f8db" />
+
 <img width="395" height="633" alt="Screenshot 2025-07-29 221444" src="https://github.com/user-attachments/assets/d18aec87-b633-42a2-99a2-4cad2824f6eb" />
 <img width="359" height="536" alt="Screenshot 2025-07-29 221547" src="https://github.com/user-attachments/assets/2d03c6c5-a264-4e21-a5e2-9442d554b8a1" />
